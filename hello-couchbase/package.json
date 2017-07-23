@@ -1,0 +1,15 @@
+{
+  "name": "hello-couchbase",
+  "version": "0.0.1",
+  "description": "Couchbase CRUD tester",
+  "main": "hello-couchbase.js",
+  "dependencies": {
+    "couchbase": "^2.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
